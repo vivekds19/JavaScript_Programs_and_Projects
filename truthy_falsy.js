@@ -2,7 +2,7 @@
 const fristname = "Vivek";
 const nickname = "ds";
 
-const username = fristname && nickname && "Guest"; // short-circuiting
+const username = fristname && nickname && "Guest";
 console.log(`Name : ${username}`);
 
 // OR operator (||)
