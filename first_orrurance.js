@@ -2,10 +2,9 @@ const text = "GeeksForGeeks";
 
 const pt = "gor";
 
-/*const index = text.indexOf(pt);
+//const index = text.indexOf(pt);
 
-console.log(index);
-*/
+//console.log(index);
 
 const m = text.length;
 const n = pt.length;
